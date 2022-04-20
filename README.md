@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Backend%20Developer&fontSize=50)   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpg-Parunson%2Fhit-counter&count_bg=%2308ABCA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)   
+
 
 <!--
 **pg-Parunson/pg-Parunson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
