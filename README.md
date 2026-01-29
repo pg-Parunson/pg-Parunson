@@ -90,9 +90,15 @@ timezone: "UTC +09:00"
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pg-Parunson&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/pg-Parunson)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pg-Parunson&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pg-Parunson&show_icons=true&theme=tokyonight&hide_border=true" />
+</picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pg-Parunson&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/pg-Parunson)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pg-Parunson&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=pg-Parunson&theme=tokyonight&hide_border=true" />
+</picture>
 
 </div>
 
