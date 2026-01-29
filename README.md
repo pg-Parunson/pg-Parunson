@@ -329,7 +329,10 @@ timezone: "UTC +09:00"
 <br/>
 
 <!-- GitHub Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=pg-Parunson&theme=darkhub&no-frame=true&column=7&margin-w=10)](https://github.com/pg-Parunson)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=pg-Parunson&theme=darkhub&no-frame=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pg-Parunson&theme=darkhub&no-frame=true&column=7&margin-w=10" />
+</picture>
 
 </div>
 
